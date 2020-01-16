@@ -1,5 +1,0 @@
-#include<stdio.h>
-int i,j;
-int main(){
-	printf("hello world");
-	}
